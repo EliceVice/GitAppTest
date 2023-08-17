@@ -18,7 +18,10 @@ class ViewController: UIViewController {
         // Task#3 implementation
         // Task#3 adding additional functionality
 
-        // Task#2 implementation 
+        // Task#2 implementation
+        
+        // Task#4 starting the work
+        // Task#4 finishing the work
     }
 
 
