@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         // Task#1 implementation
+        // Task#1 fixing bugs
         
     }
 
