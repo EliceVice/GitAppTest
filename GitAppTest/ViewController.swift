@@ -11,7 +11,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        // Task#1 implementation
+        // Task#1 fixing bugs in another way
+        
     }
 
 
