@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         // Task#1 fixing bugs in another way
         
         // Task#3 implementation
+        // Task#3 adding additional functionality
         
     }
 
